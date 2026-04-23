@@ -1,7 +1,7 @@
 > [!NOTE]
 > Currently in development.
 
-# 🎨 Bana Editor
+# 🎨 Banana Editor🍌
 
 Bana Editor is an AI-powered image editing platform that allows users to generate, enhance, and transform images using simple prompts and intelligent editing tools.
 
