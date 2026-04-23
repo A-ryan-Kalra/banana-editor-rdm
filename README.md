@@ -9,8 +9,10 @@ Originally inspired from **Nano Bana**, the project evolved into a more powerful
 
 ---
 
-## 👷🏻 Wrokflow
-<img width="1180" height="987" alt="achitecture" src="https://github.com/user-attachments/assets/6126f9b2-757b-465b-9d98-0186f9af314f" />
+## Demo
+
+https://github.com/user-attachments/assets/71df4340-f996-46fb-85ea-faf702560867
+
 
 ---
 
@@ -62,6 +64,11 @@ Expand images intelligently into different aspect ratios:
 - **State Management:** Zustand
 - **AI Model:** Gemini 3 Pro
 - **Image Generation:** Google GenAI APIs
+
+---
+
+## 👷🏻 Wrokflow
+<img width="1180" height="987" alt="achitecture" src="https://github.com/user-attachments/assets/6126f9b2-757b-465b-9d98-0186f9af314f" />
 
 ---
 
