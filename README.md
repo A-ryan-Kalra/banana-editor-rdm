@@ -3,9 +3,9 @@
 
 # 🎨 Banana Editor🍌
 
-Bana Editor is an AI-powered image editing platform that allows users to generate, enhance, and transform images using simple prompts and intelligent editing tools.
+Banana Editor is an AI-powered image editing platform that allows users to generate, enhance, and transform images using simple prompts and intelligent editing tools.
 
-Originally inspired from **Nano Bana**, the project evolved into a more powerful and feature-rich editor — now known as **Bana Editor**.
+Originally inspired from **Nano Bana**, the project evolved into a more powerful and feature-rich editor — now known as **Banana Editor**.
 
 ---
 
